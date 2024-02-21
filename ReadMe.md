@@ -2,4 +2,4 @@
 
 All my projects for DATA 441 can be found here.
 
-More information can be found on this repository's GitHub page here:
+More information can be found on this repository's GitHub page here: https://spuriussergius.github.io/DATA441/
