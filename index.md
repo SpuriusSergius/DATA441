@@ -14,3 +14,11 @@ Here I will explain how files are organized
 ### HW1
 
 This is the folder for homework 1 where we were tasked with implmenting ridge regression with PyTorch and completing the exercise in the "Application to Locally Weighted Regression" Jupyter notebook.
+
+### HW2
+
+Homework 2 contains a gradient boost implementation with a test of the implementation with different types of scalers and a K-nearest neighbors classification implementation.
+
+### HW3
+
+Homework 3 contains a SCAD regularization implementation in a PyTorch class and a test of SCAD, ElasticNet, and SqrtLasso feature selection methods to see which can approximate closest to the ideal solution.
